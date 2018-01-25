@@ -7,10 +7,10 @@ int main()
 	if((withdraw+0.5)>balance||(withdraw%5!=0))
 	{
 		cout<<balance;
-		}
-		else
-		{
-			cout<< (balance-withdraw-0.5);
-			}
-			}
- 
+	}
+	else
+	{
+		cout<< (balance-withdraw-0.5);
+	}
+}
+	 
