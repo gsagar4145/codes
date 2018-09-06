@@ -11,7 +11,7 @@ int main() {
 	        if(s.substr(0,5)=="hydro")cout<<"non-metal acid\n";
 	        else cout<<"polyatomic acid\n";
 	    }
-	    else cout<<"not an acid\n";
+	    else cout<<"not an acid but an aatma\n";
 	}
 	return 0;
 }
